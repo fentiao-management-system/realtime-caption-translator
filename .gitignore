@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+sessions/
+.pytest_cache/
+*.log
+huggingface/
+glossary.json
+scripts/test_speech.*
